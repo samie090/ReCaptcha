@@ -1,0 +1,61 @@
+﻿@model TestCaptcha.Models.Login
+@inject IConfiguration configuration
+
+@{
+    var sitekey = configuration["ReCaptchaSetting:SiteKey"];
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Login" onsubmit="onSubmit(event)">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+                <input type="text" asp-for="RecaptchaToken" id="recaptchaTokenId" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="RememberMe" /> @Html.DisplayNameFor(model => model.RememberMe)
+                </label>
+            </div>
+            <div id="html_element" ></div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+        var onloadCallback = function () {
+            console.log('recaptcha is ready'); // Runs Automatically
+            grecaptcha.render('html_element', {
+                'sitekey': '@sitekey'
+            });
+        }
+        function onSubmit(event) {
+            var token = grecaptcha.getResponse();
+            document.getElementById("recaptchaTokenId").value = token;
+        }
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+            async defer>
+    </script>
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
