@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestCaptcha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+263dda049b550068088c0b2d66fdbe7a92ca13cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestCaptcha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestCaptcha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

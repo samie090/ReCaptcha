@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\",
+  "WorkspaceRootPath": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|d:\\it data\\dotnet\\examples\\captcha\\testcaptcha\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|d:\\it data\\dotnet\\examples\\captcha\\testcaptcha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|d:\\it data\\dotnet\\examples\\captcha\\testcaptcha(git)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|d:\\it data\\dotnet\\examples\\captcha\\testcaptcha\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|d:\\it data\\dotnet\\examples\\captcha\\testcaptcha(git)\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|d:\\it data\\dotnet\\examples\\captcha\\testcaptcha(git)\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|d:\\it data\\dotnet\\examples\\captcha\\testcaptcha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|d:\\it data\\dotnet\\examples\\captcha\\testcaptcha(git)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AD7D580E-3D59-4608-87AA-7E033D05EEBE}|TestCaptcha.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,37 +36,36 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\appsettings.json",
+              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\appsettings.json",
+              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T12:46:28.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T12:46:28.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\Views\\Home\\Login.cshtml",
+              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-16T11:44:30.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAuwCsAAAATAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwB4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T11:40:35.977Z",
               "EditorCaption": ""
@@ -75,14 +74,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Login.cs",
-              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\Models\\Login.cs",
+              "DocumentMoniker": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\Models\\Login.cs",
               "RelativeDocumentMoniker": "Models\\Login.cs",
-              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\Models\\Login.cs",
+              "ToolTip": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\Models\\Login.cs",
               "RelativeToolTip": "Models\\Login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:39:16.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T11:39:16.304Z"
             }
           ]
         }

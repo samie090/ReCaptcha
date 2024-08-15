@@ -5703,11 +5703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\TestCaptcha.csproj",
+      "projectUniqueName": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\TestCaptcha.csproj",
       "projectName": "TestCaptcha",
-      "projectPath": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\TestCaptcha.csproj",
+      "projectPath": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\TestCaptcha.csproj",
       "packagesPath": "C:\\Users\\samie\\.nuget\\packages\\",
-      "outputPath": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha\\obj\\",
+      "outputPath": "D:\\IT Data\\DotNet\\Examples\\Captcha\\TestCaptcha(GIT)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samie\\AppData\\Roaming\\NuGet\\NuGet.Config",
